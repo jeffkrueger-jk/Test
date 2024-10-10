@@ -1,3 +1,2 @@
-def test:
+def test():
    print("y")
-//test
