@@ -1,5 +1,1 @@
-def test():
-    print("y")
-
-
-test()
+print("hi")
